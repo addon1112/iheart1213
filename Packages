@@ -122,30 +122,14 @@ Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Package: com.lyxaben.iheart.AutoLeadHelperios13
 Name: AutoLeadHelperios13
 Architecture: iphoneos-arm
-Version: 1.0-1
+Version: 1.0-119
 Description: AutoLeadHelperios13 for iHeart by lyxaben
 Maintainer: AutoLeadHelperios13 
 Author: AutoLeadHelperios13 
 Section: Tweaks
-Filename: ./debs/com.lyxaben.iheart.AutoLeadHelperios13_1.0-1_iphoneos-arm.deb
-Size: 352748
-MD5sum: 3eeb44e918452682295a83a6757fc03f
-SHA1: 13f4fffdebc919356801602cfd3c0ed17437974a
-SHA256: a7e56be2ce79795904558b7e58daf6f44f184dba57136139c733471cfce1fa4e
-Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
-
-
-Package: com.nguyentrungkien.AutoLeadHelper
-Name: AutoLeadHelperios125S
-Architecture: iphoneos-arm
-Version: 1.0-181
-Description: AutoLeadHelper 5s by lyxaben
-Maintainer: AutoLeadHelperios13 
-Author: AutoLeadHelperios13 
-Section: Tweaks
-Filename: ./debs/com.nguyentrungkien.AutoLeadHelper_1.0-181_iphoneos-arm.deb
-Size: 351916
-MD5sum: 36b3867f27d06160cac69d14bb5ffb26
-SHA1: 48a1d9f0a7025db0b482b4fcd3b8b3535bdb0ae0
-SHA256: fd66549d0fc81fe8f8d14daedc779d84dcc105027b5b202d3884e66017f48654
+Filename: ./debs/com.lyxaben.iheart.AutoLeadHelperios13_1.0-119_iphoneos-arm.deb
+Size: 353052
+MD5sum: 5aceadbb0459d421791a6aaaf13ffa15
+SHA1: f234865711e25c59fe53f5ab7921723f8e60aa26
+SHA256: f50bd9744262cd5ca4369c39b5709e5a48be5682d3961e18bcdbd6cdcfe59875
 Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
